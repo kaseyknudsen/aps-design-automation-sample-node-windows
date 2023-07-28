@@ -1,0 +1,24 @@
+{
+  "name": "designautomationsamplenode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node start.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autodesk.forge.designautomation": "^3.0.5",
+    "body-parser": "^1.20.2",
+    "cookie-session": "^2.0.0",
+    "express": "^4.18.2",
+    "express-formidable": "^1.2.0",
+    "forge-apis": "^0.9.6",
+    "form-data": "^4.0.0",
+    "multer": "^1.4.5-lts.1",
+    "socket.io": "^4.7.1"
+  }
+}
